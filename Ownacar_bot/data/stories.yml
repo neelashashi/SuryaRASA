@@ -1,0 +1,34 @@
+version: "2.0"
+
+stories:
+
+- story: usual car path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: search_cars
+  - action: utter_search_cars
+  - intent: goodbye
+  - action: utter_goodbye
+  - intent: bot_challenge
+  - action: utter_bot_challenge
+
+- story: usual dealer path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: search_dealers
+  - action: utter_search_dealers
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: usual car+dealer path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: search_cars
+  - action: utter_search_cars
+  - intent: search_dealers
+  - action: utter_search_dealers
+  - intent: goodbye
+  - action: utter_goodbye

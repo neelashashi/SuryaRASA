@@ -1,0 +1,86 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - hey
+    - hello there
+    - good morning
+    - good evening
+    - mornin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - bye
+    - thanks
+    - cya
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - catch you later
+
+- intent: search_cars
+  examples: |
+    - best cars of [honda](brand)
+    - best cars
+    - [audi](brand) cars
+    - [tata](brand)
+    - cars of [nissan](brand)
+    - [sedan](car_body) cars
+    - [hatchback](car_body) type cars
+    - [SUV](car_body)
+    - cars under [5 lakhs](price)
+    - cars below [10 lakhs](price)
+    - [8 seater](car_body) cars
+    - [4-seater](car_body) cars
+    - [petrol](fuel_type) cars
+    - [diesel](fuel_type) cars
+    - I want to buy a car
+    - [luxury](price) cars
+    - best cars in india
+    - best mileage cars
+    - [audi](brand) cars
+    - [sedan](car_body) cars
+    - [hatchback](car_body) car
+    - cars under [5 lakhs](price)
+    - cars below [10 lakhs](price)
+    - automatic transmission
+
+- intent: search_dealers
+  examples: |
+    - Where is it available?
+    - Who are the dealers selling it?
+    - dealers near me
+    - where is the car available?
+    - where is this model available?
+    - [audi](brand) car dealers
+    - [luxury](price) car dealers
+    - availability near me
+    - [honda](brand) dealers
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: thanks
+  examples: |  
+    - thanks  
+    - thank you  
+    - thank you so much

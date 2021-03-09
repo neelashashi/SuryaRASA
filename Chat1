@@ -1,0 +1,73 @@
+Bot loaded. Type a message and press enter (use '/stop' to exit): 
+Your input ->  what cars are available                                                                                                                   
+Here are your search results
+Your input ->  maruti                                                                                                                                    
+Searching please wait...
+Your input ->  esteem                                                                                                                                    
+Your input ->  buy maruti zen                                                                                                                            
+Searching please wait...
+Your input ->  electronic cars in india                                                                                                                  
+These are the cars recommended for you
+Your input ->  cars with cng                                                                                                                             
+Here are your search results
+Your input ->  8 seater cars                                                                                                                             
+/home/surya/RasaVE/lib/python3.8/site-packages/rasa/shared/utils/io.py:93: UserWarning: Interpreter parsed an entity 'price' which is not defined in the domain. Please make sure all entities are listed in the domain.
+  More info at https://rasa.com/docs/rasa/domain
+What additional features are you looking for?
+Your input ->  petrol                                                                                                                                    
+Have a nice day!
+Your input ->  electric suv                                                                                                                              
+/home/surya/RasaVE/lib/python3.8/site-packages/rasa/shared/utils/io.py:93: UserWarning: Interpreter parsed an entity 'car_body' which is not defined in the domain. Please make sure all entities are listed in the domain.
+  More info at https://rasa.com/docs/rasa/domain
+These are the cars recommended for you
+Your input ->  automatic cars                                                                                                                            
+Searching please wait...
+Your input ->  compact sedans                                                                                                                            
+What additional features are you looking for?
+Your input ->  automatic                                                                                                                                 
+What additional features are you looking for?
+Your input ->  automatic                                                                                                                                 
+What additional features are you looking for?
+Your input ->  automatic                                                                                                                                 
+These are the cars recommended for you
+Your input ->  compact suvs                                                                                                                              
+Here are your search results
+Your input ->  upcoming cars 2021                                                                                                                        
+Here are your search results
+Your input ->  kia                                                                                                                                       
+Have a nice day!
+Your input ->  mg                                                                                                                                        
+Welcome to Ownacar.in
+Your input ->  mg                                                                                                                                        
+Hi, How may I help you?
+Your input ->  mg                                                                                                                                        
+Hi, Welcome!
+Your input ->  mg                                                                                                                                        
+Hello, What would you want to know about?
+Your input ->  morris garage                                                                                                                             
+Searching please wait...
+Your input ->  kia                                                                                                                                       
+Bye
+Your input ->  kia                                                                                                                                       
+Thank you for using ownacar_bot
+Your input ->  altroz                                                                                                                                    
+It was nice talking to you.
+Your input ->  kona                                                                                                                                      
+Thank you for using ownacar_bot
+Your input ->  cars under 2l                                                                                                                             
+These are the cars recommended for you
+Your input ->  automatic cars under 7l                                                                                                                   
+What additional features are you looking for?
+Your input ->  suv                                                                                                                                       
+What additional features are you looking for?
+Your input ->  sunroof                                                                                                                                   
+What additional features are you looking for?
+Your input ->  hill assist                                                                                                                               
+What additional features are you looking for?
+Your input ->  abs                                                                                                                                       
+Have a nice day!
+Your input ->  cars with traction control                                                                                                                
+Searching please wait...
+Your input ->  automatic climate                                                                                                                         
+Searching please wait...
+
